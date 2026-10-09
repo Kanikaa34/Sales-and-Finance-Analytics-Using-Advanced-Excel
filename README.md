@@ -40,16 +40,9 @@ This project focuses on analyzing sales and financial performance using Microsof
 - Target-versus-actual comparisons
 - Year-over-year growth analysis
 - Pivot tables, charts, and conditional formatting, where used
-
-## Repository Structure
-
-- `README.md` — Project overview and report descriptions
-- `dashboard-exports/` — PDF exports of the reports and dashboards
-
+- 
 ## Project Purpose
 
 The purpose of this project is to demonstrate how Excel-based business reporting can help organize sales and financial data, evaluate business performance, and communicate useful insights to stakeholders.
 
----
 
-*This project is part of my business intelligence and data analytics portfolio.*
